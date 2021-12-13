@@ -1,0 +1,27 @@
+{
+    "pokedex":{
+        "title": "Qual pokemon você está procurando?",
+        "error": "Erro: {{msg}}"
+    },
+    "pokeDetails":{
+        "tabBar1":"Sobre",
+        "tabBar2":"Status base",
+        "tabBar3":"Evolução",
+        "about":{
+            "title":"Pokédex Data"
+        },
+        "status":{
+            "title":"Status Base",
+            "hp":"HP",
+            "attack":"Ataque",
+            "defense":"Defesa",
+            "spAtk":"Atq. Especial",
+            "spDef":"Def. Especial",
+            "speed":"Velocidade",
+            "total":"Total"
+        },
+        "evolution":{
+            "title":"Evoluções"
+        }
+    }
+}
