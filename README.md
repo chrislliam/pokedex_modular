@@ -17,4 +17,4 @@
 * [http](https://pub.dev/packages/http)
 * [cached_network_image](https://pub.dev/packages/cached_network_image)
 * [rxdart](https://pub.dev/packages/rxdart)
-* [flutter_bloc](https://pub.dev/packages/ flutter_bloc)
+* [flutter_bloc](https://pub.dev/packages/flutter_bloc)
